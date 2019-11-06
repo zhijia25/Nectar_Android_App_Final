@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.amigold.fundapter:library:1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.aar/414c8cfb396f1b0ccadc582149ca9dc5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.0.aar/414c8cfb396f1b0ccadc582149ca9dc5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.amigold.fundapter/library/1.0/6163ec2335efe7b46ea7b86dd354f3d3bcce2cc/library-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.amigold.fundapter/library/1.0/5c3f7fd4725cfa0c950ac35b802fc6d7e75371c7/library-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

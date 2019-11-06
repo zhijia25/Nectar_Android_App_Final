@@ -1,0 +1,47 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml:2:1-11:12
+	package
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml:2:1-11:12
+		INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml:2:1-11:12
+		INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml:5:5-9:56
+	android:label
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml:9:9-40
+uses-sdk
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\src\main\AndroidManifest.xml

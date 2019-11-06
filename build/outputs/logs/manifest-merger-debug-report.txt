@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [:easyrecyclerview] C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\easyrecyclerview\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-13:12
+MERGED from [:circlerefresh] C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:design:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\bcfb2ac53a2da3b4536ad92db066c47f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\e7404fbd85767ce6504b50bc1e1f4773\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-appindexing:16.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-16.0.1.aar\b7ad61d0e08aa50ec45b867d2d321487\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\fb0aea5bb9e19f049ab54ea59a960dac\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\33dc2e43b675c17543febc1e3e3ce9d7\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\b9d9310f10ddace24dcd6aec1f3369cd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8906a6a5eda2efa307834d9f15002f06\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8dddd0513fd0db60bd3a644d06a8a6a0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.amigold.fundapter:library:1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\library-1.0.aar\414c8cfb396f1b0ccadc582149ca9dc5\AndroidManifest.xml:1:1-9:12
+MERGED from [io.reactivex:rxandroid:1.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\rxandroid-1.1.0.aar\0f7776f82ff1205a827d8cea04da0150\AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\80fd8a99007713cec6b7676be065ef4d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\3246d842e869568d8b4389c7a27c3cce\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\60c2781af58d48c16d9c767070883a2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62be3960af042cd876be1dcd7d0772ca\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0264a7c9ee6c4bde2f4fe4f19095cd0a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7cea1e1f2e40e6fa74ada0738ecd10d9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9f1be8e4f0d604c3cd76bd5fdfa97a50\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e61002256bb22ed99533ce2d549a2a7a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:23.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.0.1.aar\dbac1552d7458ea93e6a6bb3227a4820\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9868d2e34d215fc8a31bc3bbaeb64827\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:9:5-47:19
+MERGED from [:easyrecyclerview] C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\easyrecyclerview\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-20
+MERGED from [:easyrecyclerview] C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\easyrecyclerview\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-20
+MERGED from [:circlerefresh] C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-15:43
+MERGED from [:circlerefresh] C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-15:43
+MERGED from [com.android.support:design:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\bcfb2ac53a2da3b4536ad92db066c47f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\bcfb2ac53a2da3b4536ad92db066c47f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\e7404fbd85767ce6504b50bc1e1f4773\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\e7404fbd85767ce6504b50bc1e1f4773\AndroidManifest.xml:25:5-20
+MERGED from [com.google.firebase:firebase-appindexing:16.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-16.0.1.aar\b7ad61d0e08aa50ec45b867d2d321487\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:16.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-16.0.1.aar\b7ad61d0e08aa50ec45b867d2d321487\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\fb0aea5bb9e19f049ab54ea59a960dac\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\fb0aea5bb9e19f049ab54ea59a960dac\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\33dc2e43b675c17543febc1e3e3ce9d7\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\33dc2e43b675c17543febc1e3e3ce9d7\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\b9d9310f10ddace24dcd6aec1f3369cd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\b9d9310f10ddace24dcd6aec1f3369cd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8906a6a5eda2efa307834d9f15002f06\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8906a6a5eda2efa307834d9f15002f06\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8dddd0513fd0db60bd3a644d06a8a6a0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8dddd0513fd0db60bd3a644d06a8a6a0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.github.amigold.fundapter:library:1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\library-1.0.aar\414c8cfb396f1b0ccadc582149ca9dc5\AndroidManifest.xml:5:5-7:19
+MERGED from [com.github.amigold.fundapter:library:1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\library-1.0.aar\414c8cfb396f1b0ccadc582149ca9dc5\AndroidManifest.xml:5:5-7:19
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\80fd8a99007713cec6b7676be065ef4d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\80fd8a99007713cec6b7676be065ef4d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\3246d842e869568d8b4389c7a27c3cce\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\3246d842e869568d8b4389c7a27c3cce\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62be3960af042cd876be1dcd7d0772ca\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62be3960af042cd876be1dcd7d0772ca\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0264a7c9ee6c4bde2f4fe4f19095cd0a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0264a7c9ee6c4bde2f4fe4f19095cd0a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7cea1e1f2e40e6fa74ada0738ecd10d9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7cea1e1f2e40e6fa74ada0738ecd10d9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9f1be8e4f0d604c3cd76bd5fdfa97a50\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9f1be8e4f0d604c3cd76bd5fdfa97a50\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e61002256bb22ed99533ce2d549a2a7a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e61002256bb22ed99533ce2d549a2a7a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:23.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.0.1.aar\dbac1552d7458ea93e6a6bb3227a4820\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.0.1.aar\dbac1552d7458ea93e6a6bb3227a4820\AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9868d2e34d215fc8a31bc3bbaeb64827\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9868d2e34d215fc8a31bc3bbaeb64827\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:11:9-49
+		REJECTED from [:circlerefresh] C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:9-43
+		REJECTED from [com.github.amigold.fundapter:library:1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\library-1.0.aar\414c8cfb396f1b0ccadc582149ca9dc5\AndroidManifest.xml:5:45-81
+	android:allowBackup
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:14:9-40
+	tools:replace
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:15:9-37
+activity#com.jianqingc.nectar.activity.WelcomeActivity
+ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:17:9-25:20
+	android:screenOrientation
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:19:13-49
+	android:theme
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:20:13-46
+	android:name
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:18:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:23:27-74
+activity#com.jianqingc.nectar.activity.GuideActivity
+ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:27:9-30:20
+	android:theme
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:28:13-51
+activity#com.jianqingc.nectar.activity.LoginActivity
+ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:32:9-35:20
+	android:theme
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:33:13-51
+activity#com.jianqingc.nectar.activity.MainActivity
+ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:37:9-40:20
+	android:theme
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:38:13-50
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:42:9-44:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8906a6a5eda2efa307834d9f15002f06\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8906a6a5eda2efa307834d9f15002f06\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:44:13-66
+	android:name
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml:43:13-58
+uses-sdk
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml
+MERGED from [:easyrecyclerview] C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\easyrecyclerview\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:easyrecyclerview] C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\easyrecyclerview\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:circlerefresh] C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:circlerefresh] C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\circlerefresh\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\bcfb2ac53a2da3b4536ad92db066c47f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\bcfb2ac53a2da3b4536ad92db066c47f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\e7404fbd85767ce6504b50bc1e1f4773\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\e7404fbd85767ce6504b50bc1e1f4773\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.firebase:firebase-appindexing:16.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-16.0.1.aar\b7ad61d0e08aa50ec45b867d2d321487\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:16.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-16.0.1.aar\b7ad61d0e08aa50ec45b867d2d321487\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\fb0aea5bb9e19f049ab54ea59a960dac\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\fb0aea5bb9e19f049ab54ea59a960dac\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\33dc2e43b675c17543febc1e3e3ce9d7\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\33dc2e43b675c17543febc1e3e3ce9d7\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\b9d9310f10ddace24dcd6aec1f3369cd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\b9d9310f10ddace24dcd6aec1f3369cd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8906a6a5eda2efa307834d9f15002f06\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\8906a6a5eda2efa307834d9f15002f06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8dddd0513fd0db60bd3a644d06a8a6a0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8dddd0513fd0db60bd3a644d06a8a6a0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.github.amigold.fundapter:library:1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\library-1.0.aar\414c8cfb396f1b0ccadc582149ca9dc5\AndroidManifest.xml:3:5-72
+MERGED from [com.github.amigold.fundapter:library:1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\library-1.0.aar\414c8cfb396f1b0ccadc582149ca9dc5\AndroidManifest.xml:3:5-72
+MERGED from [io.reactivex:rxandroid:1.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\rxandroid-1.1.0.aar\0f7776f82ff1205a827d8cea04da0150\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\rxandroid-1.1.0.aar\0f7776f82ff1205a827d8cea04da0150\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\80fd8a99007713cec6b7676be065ef4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\80fd8a99007713cec6b7676be065ef4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\3246d842e869568d8b4389c7a27c3cce\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\3246d842e869568d8b4389c7a27c3cce\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\60c2781af58d48c16d9c767070883a2d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\60c2781af58d48c16d9c767070883a2d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62be3960af042cd876be1dcd7d0772ca\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62be3960af042cd876be1dcd7d0772ca\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0264a7c9ee6c4bde2f4fe4f19095cd0a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0264a7c9ee6c4bde2f4fe4f19095cd0a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7cea1e1f2e40e6fa74ada0738ecd10d9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7cea1e1f2e40e6fa74ada0738ecd10d9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9f1be8e4f0d604c3cd76bd5fdfa97a50\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9f1be8e4f0d604c3cd76bd5fdfa97a50\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e61002256bb22ed99533ce2d549a2a7a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e61002256bb22ed99533ce2d549a2a7a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:23.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.0.1.aar\dbac1552d7458ea93e6a6bb3227a4820\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.0.1.aar\dbac1552d7458ea93e6a6bb3227a4820\AndroidManifest.xml:20:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9868d2e34d215fc8a31bc3bbaeb64827\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9868d2e34d215fc8a31bc3bbaeb64827\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml
+INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\e7404fbd85767ce6504b50bc1e1f4773\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml
+		ADDED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\62463\AndroidStudioProjects\nectar_new\Nectar_Android_App_19-20\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\fb0aea5bb9e19f049ab54ea59a960dac\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\fb0aea5bb9e19f049ab54ea59a960dac\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\fb0aea5bb9e19f049ab54ea59a960dac\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\fb0aea5bb9e19f049ab54ea59a960dac\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\33dc2e43b675c17543febc1e3e3ce9d7\AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\33dc2e43b675c17543febc1e3e3ce9d7\AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\33dc2e43b675c17543febc1e3e3ce9d7\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\33dc2e43b675c17543febc1e3e3ce9d7\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\33dc2e43b675c17543febc1e3e3ce9d7\AndroidManifest.xml:10:13-77
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8dddd0513fd0db60bd3a644d06a8a6a0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62be3960af042cd876be1dcd7d0772ca\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62be3960af042cd876be1dcd7d0772ca\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0264a7c9ee6c4bde2f4fe4f19095cd0a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0264a7c9ee6c4bde2f4fe4f19095cd0a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7cea1e1f2e40e6fa74ada0738ecd10d9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7cea1e1f2e40e6fa74ada0738ecd10d9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9f1be8e4f0d604c3cd76bd5fdfa97a50\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9f1be8e4f0d604c3cd76bd5fdfa97a50\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e61002256bb22ed99533ce2d549a2a7a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\e61002256bb22ed99533ce2d549a2a7a\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8dddd0513fd0db60bd3a644d06a8a6a0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8dddd0513fd0db60bd3a644d06a8a6a0\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9868d2e34d215fc8a31bc3bbaeb64827\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9868d2e34d215fc8a31bc3bbaeb64827\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\62463\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9868d2e34d215fc8a31bc3bbaeb64827\AndroidManifest.xml:26:13-58
